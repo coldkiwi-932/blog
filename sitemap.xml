@@ -2,13 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://coldkiwi-932.github.io/categories/</loc>
-  </url><url>
     <loc>https://coldkiwi-932.github.io/</loc>
-  </url><url>
-    <loc>https://coldkiwi-932.github.io/posts/post-1/</loc>
+    <lastmod>2024-09-07T00:43:25+08:00</lastmod>
   </url><url>
     <loc>https://coldkiwi-932.github.io/posts/</loc>
+    <lastmod>2024-09-07T00:43:25+08:00</lastmod>
+  </url><url>
+    <loc>https://coldkiwi-932.github.io/posts/post-2/</loc>
+    <lastmod>2024-09-07T00:43:25+08:00</lastmod>
+  </url><url>
+    <loc>https://coldkiwi-932.github.io/posts/post-1/</loc>
+    <lastmod>2024-09-06T23:32:50+08:00</lastmod>
+  </url><url>
+    <loc>https://coldkiwi-932.github.io/crazy/</loc>
+  </url><url>
+    <loc>https://coldkiwi-932.github.io/about/</loc>
+  </url><url>
+    <loc>https://coldkiwi-932.github.io/categories/</loc>
   </url><url>
     <loc>https://coldkiwi-932.github.io/tags/</loc>
   </url>

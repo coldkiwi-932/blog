@@ -6,13 +6,30 @@
     <description>Recent content in Posts on Cold Kiwi</description>
     <generator>Hugo -- 0.134.1</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 07 Sep 2024 00:43:25 +0800</lastBuildDate>
     <atom:link href="https://coldkiwi-932.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>hey there</title>
+      <title>🤔 Testing Other Stuff</title>
+      <link>https://coldkiwi-932.github.io/posts/post-2/</link>
+      <pubDate>Sat, 07 Sep 2024 00:43:25 +0800</pubDate>
+      <guid>https://coldkiwi-932.github.io/posts/post-2/</guid>
+      <description>&lt;h3 id=&#34;website-updates&#34;&gt;Website Updates&lt;/h3&gt;
+&lt;p&gt;I&amp;rsquo;ve added some other pages that you can see above, also experimented with the menu navigation bar, so that you can navigate back and forth from one page to another.&lt;/p&gt;
+&lt;h3 id=&#34;what-else-is-there-to-come&#34;&gt;What else is there to come?&lt;/h3&gt;
+&lt;p&gt;Honestly, I don&amp;rsquo;t know.&lt;/p&gt;
+&lt;h3 id=&#34;is-that-it&#34;&gt;Is that it?&lt;/h3&gt;
+&lt;p&gt;Yeah.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🥳 Website is finally online!</title>
       <link>https://coldkiwi-932.github.io/posts/post-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 06 Sep 2024 23:32:50 +0800</pubDate>
       <guid>https://coldkiwi-932.github.io/posts/post-1/</guid>
-      <description>&lt;h2 id=&#34;hi-lol&#34;&gt;hi lol&lt;/h2&gt;</description>
+      <description>&lt;hr&gt;
+&lt;h3 id=&#34;welcome-to-the-website&#34;&gt;Welcome to the website!&lt;/h3&gt;
+&lt;p&gt;This website was built using &lt;a href=&#34;https://gohugo.io&#34;&gt;HUGO&lt;/a&gt; with the &lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod&#34;&gt;PaperMod&lt;/a&gt; theme.&lt;/p&gt;
+&lt;p&gt;Will be using this to explore further into coding.&lt;/p&gt;
+&lt;p&gt;Thank you 🙂&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
