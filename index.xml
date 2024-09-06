@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Cold Kiwi</title>
-    <link>https://coldkiwi-932.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Cold Kiwi</description>
     <generator>Hugo -- 0.134.1</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Sep 2024 00:43:25 +0800</lastBuildDate>
-    <atom:link href="https://coldkiwi-932.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🤔 Testing Other Stuff</title>
-      <link>https://coldkiwi-932.github.io/posts/post-2/</link>
+      <link>http://localhost:1313/posts/post-2/</link>
       <pubDate>Sat, 07 Sep 2024 00:43:25 +0800</pubDate>
-      <guid>https://coldkiwi-932.github.io/posts/post-2/</guid>
+      <guid>http://localhost:1313/posts/post-2/</guid>
       <description>&lt;h3 id=&#34;website-updates&#34;&gt;Website Updates&lt;/h3&gt;
 &lt;p&gt;I&amp;rsquo;ve added some other pages that you can see above, also experimented with the menu navigation bar, so that you can navigate back and forth from one page to another.&lt;/p&gt;
 &lt;h3 id=&#34;what-else-is-there-to-come&#34;&gt;What else is there to come?&lt;/h3&gt;
@@ -22,29 +22,28 @@
     </item>
     <item>
       <title>🥳 Website is finally online!</title>
-      <link>https://coldkiwi-932.github.io/posts/post-1/</link>
+      <link>http://localhost:1313/posts/post-1/</link>
       <pubDate>Fri, 06 Sep 2024 23:32:50 +0800</pubDate>
-      <guid>https://coldkiwi-932.github.io/posts/post-1/</guid>
+      <guid>http://localhost:1313/posts/post-1/</guid>
       <description>&lt;hr&gt;
 &lt;h3 id=&#34;welcome-to-the-website&#34;&gt;Welcome to the website!&lt;/h3&gt;
 &lt;p&gt;This website was built using &lt;a href=&#34;https://gohugo.io&#34;&gt;HUGO&lt;/a&gt; with the &lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod&#34;&gt;PaperMod&lt;/a&gt; theme.&lt;/p&gt;
-&lt;p&gt;Will be using this to explore further into coding.&lt;/p&gt;
-&lt;p&gt;Thank you 🙂&lt;/p&gt;</description>
+&lt;p&gt;Will be using this to explore further into coding.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://coldkiwi-932.github.io/crazy/</link>
+      <link>http://localhost:1313/crazy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://coldkiwi-932.github.io/crazy/</guid>
+      <guid>http://localhost:1313/crazy/</guid>
       <description>&lt;h1 id=&#34;thats-absolutely-crazy&#34;&gt;That&amp;rsquo;s absolutely crazy!&lt;/h1&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://scontent.xx.fbcdn.net/v/t1.15752-9/454629684_8552009278156576_6032802052439697856_n.png?_nc_cat=101&amp;amp;ccb=1-7&amp;amp;_nc_sid=0024fc&amp;amp;_nc_eui2=AeH83F7C0YD33uCVi1thL2sfOthzDurP9CY62HMO6s_0Jvba_hPZH47ELJ-MoqVXg9J77vivSpCpNxt-ZGjv3Wr1&amp;amp;_nc_ohc=tC_SYwE-kmQQ7kNvgGmxE5s&amp;amp;_nc_ad=z-m&amp;amp;_nc_cid=0&amp;amp;_nc_ht=scontent.xx&amp;amp;_nc_gid=AwNtHxN0nNzP07VHylWxPR_&amp;amp;oh=03_Q7cD1QGa-eq8kQf22jkvapeWyzwyLiA60zh_gRq26b7WAFG87g&amp;amp;oe=67028963#center&#34; alt=&#34;Isaac Shitting&#34;  /&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>https://coldkiwi-932.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://coldkiwi-932.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;There is nothing to know about me.&lt;/p&gt;</description>
     </item>
   </channel>
