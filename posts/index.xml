@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on Cold Kiwi</title>
     <link>https://coldkiwi-932.github.io/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on Cold Kiwi</description>
     <generator>Hugo -- 0.134.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Sep 2024 23:02:44 +0800</lastBuildDate>
     <atom:link href="https://coldkiwi-932.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Post 1: Hey There! 👋</title>
+      <title>hey there</title>
       <link>https://coldkiwi-932.github.io/posts/post-1/</link>
-      <pubDate>Fri, 06 Sep 2024 23:02:44 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://coldkiwi-932.github.io/posts/post-1/</guid>
-      <description>&lt;h2 id=&#34;welcome&#34;&gt;Welcome!&lt;/h2&gt;
-&lt;p&gt;This is something i&amp;rsquo;m trying to work on. 😛&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;hi-lol&#34;&gt;hi lol&lt;/h2&gt;</description>
     </item>
   </channel>
 </rss>
