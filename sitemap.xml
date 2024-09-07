@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog-website/</loc>
+    <loc>https://coldkiwi-932.github.io/blog/</loc>
     <lastmod>2024-09-07T00:43:25+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog-website/posts/</loc>
+    <loc>https://coldkiwi-932.github.io/blog/posts/</loc>
     <lastmod>2024-09-07T00:43:25+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog-website/posts/post-2/</loc>
+    <loc>https://coldkiwi-932.github.io/blog/posts/post-2/</loc>
     <lastmod>2024-09-07T00:43:25+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog-website/posts/post-1/</loc>
+    <loc>https://coldkiwi-932.github.io/blog/posts/post-1/</loc>
     <lastmod>2024-09-06T23:32:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog-website/crazy/</loc>
+    <loc>https://coldkiwi-932.github.io/blog/crazy/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog-website/about/</loc>
+    <loc>https://coldkiwi-932.github.io/blog/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog-website/categories/</loc>
+    <loc>https://coldkiwi-932.github.io/blog/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog-website/tags/</loc>
+    <loc>https://coldkiwi-932.github.io/blog/tags/</loc>
   </url>
 </urlset>
